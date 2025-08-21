@@ -24,14 +24,7 @@ I'm a passionate developer who loves to create innovative solutions using **Spri
 
 Here’s a quick look at the languages I use the most:
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quynh181226&layout=compact&langs_count=6&theme=dark)
-
-- **TypeScript**: 63.4%
-- **HTML**: 14.5%
-- **JavaScript**: 9.1%
-- **CSS**: 6.3%
-- **SCSS**: 4.8%
-- **XSLT**: 1.9%
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quynh181226&layout=compact&langs_count=10&theme=dark)
 
 ---
 
